@@ -1,0 +1,20 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "SlimRoms/kernel_lge_v500",
+        "target_path":  "kernel/lge/v500",
+        "revision":     "kk4.4"
+    },
+    {
+        "remote":       "github",
+        "repository":   "Mahdi-Rom/android_hardware_qcom_display-caf",
+        "target_path":  "hardware/qcom/display-caf",
+        "revision":     "kk-4.4.3"
+    },
+    {
+        "remote":       "github",
+        "repository":   "Mahdi-Rom/android_hardware_qcom_media-caf",
+        "target_path":  "hardware/qcom/media-caf",
+        "revision":     "kk-4.4.3"
+    }
+]
